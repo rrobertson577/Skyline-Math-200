@@ -1,0 +1,22 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+8/23,Friday,5.99,Groceries,Food,Debit,Need
+8/24,Saturday,3.84,Beverage,Food,Debit,Want
+8/24,Saturday,9.98,Burger,Food,Debit,Need
+8/25,Sunday,67.00,Dinner date,Food,Cash,Want
+8/26,Monday,                   2.00,Water,Food,Cash,Need
+8/26,Monday,                  5.25,Coffee,Food,Cash,Want
+8/26,Monday,                   6.00,Sandwich ,Food,Cash,Need
+8/28,Wednesday,                   5.00,Smoothie ,Food,Cash,Want
+                 8//28,Wednesday,                   9.00 ,Sandwich ,Food,Cash,Need
+8/29,Thursday,                   2.50,Apple,Food,Cash,Need
+8/30,Friday ,                      15,Boquet,Entertainment and Recreation,Cash,Want
+8/31,Saturday,                 11.99,Spotify Premium,Entertainment and Recreation,Debit,Want
+8/31,Sunday,                 15.86,Groceries ,Food,Debit,Need
+9/1,Sunday,                 12.99,T-Shirt,Entertainment and Recreation,Debit,Want
+9/1,Sunday,                   6.79,School Supplies,,Debit,Need
+9/2,Monday,                 20.00,Printer paper,,Debit,Need
+9/2,Monday,                   2.50,Pineapple Juice ,Food,Cash,Want
+9/2,Monday,                 11.90,Laundry Detergent,Housing,Debit,Need
+9/3,Tuesday,                   5.99 ,Jamba Juice ,Food,Cash,Want
+9/3,Tuesday,                 10.50,Turkey Sandwich ,Food,Cash,Need
+9/3,Tuesday,               200.00,Saving paycheck money,Financial goals and Savings,Debit,Savings
